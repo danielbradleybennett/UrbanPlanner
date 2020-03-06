@@ -1,0 +1,10 @@
+/Users/danielbennett/workspace/csharp/exercises/UrbanPlanner/bin/Debug/netcoreapp3.1/UrbanPlanner.deps.json
+/Users/danielbennett/workspace/csharp/exercises/UrbanPlanner/bin/Debug/netcoreapp3.1/UrbanPlanner.runtimeconfig.json
+/Users/danielbennett/workspace/csharp/exercises/UrbanPlanner/bin/Debug/netcoreapp3.1/UrbanPlanner.runtimeconfig.dev.json
+/Users/danielbennett/workspace/csharp/exercises/UrbanPlanner/bin/Debug/netcoreapp3.1/UrbanPlanner.dll
+/Users/danielbennett/workspace/csharp/exercises/UrbanPlanner/bin/Debug/netcoreapp3.1/UrbanPlanner.pdb
+/Users/danielbennett/workspace/csharp/exercises/UrbanPlanner/obj/Debug/netcoreapp3.1/UrbanPlanner.csprojAssemblyReference.cache
+/Users/danielbennett/workspace/csharp/exercises/UrbanPlanner/obj/Debug/netcoreapp3.1/UrbanPlanner.AssemblyInfoInputs.cache
+/Users/danielbennett/workspace/csharp/exercises/UrbanPlanner/obj/Debug/netcoreapp3.1/UrbanPlanner.AssemblyInfo.cs
+/Users/danielbennett/workspace/csharp/exercises/UrbanPlanner/obj/Debug/netcoreapp3.1/UrbanPlanner.dll
+/Users/danielbennett/workspace/csharp/exercises/UrbanPlanner/obj/Debug/netcoreapp3.1/UrbanPlanner.pdb
